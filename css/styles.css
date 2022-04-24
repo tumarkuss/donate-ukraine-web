@@ -35,7 +35,11 @@ body {
 }
 
 .nav div.logo a:hover {
-    color: #fff;
+    font-size: 4rem;
+    background-size: 2px;
+    -webkit-background-clip: text;
+    color: transparent; 
+    background-image: -webkit-linear-gradient(90deg,#FFD500 40%, #005BBB 40%);
 }
 
 .nav div.main_list {
