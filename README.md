@@ -1,2 +1,2 @@
-# donate-ukraine-web
+# donate-ukraine
 Donate Ukraine
